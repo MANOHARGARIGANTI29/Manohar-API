@@ -1,0 +1,107 @@
+[
+    {
+        "name":"Apple iPhone 15 Pro (128 GB) - Natural Titanium",
+        "price":127990,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/81CgtwSII3L._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"apple"
+    },
+    {
+        "name":"Apple iPhone 15 (128 GB) - Green",
+        "price":72500,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/31Na4uyIEyL._SY445_SX342_QL70_FMwebp_.jpg",
+        "rating":4.8,
+        "company":"apple"
+    },
+    {
+        "name":"Apple iPhone 14 (128 GB) - Blue",
+        "price":62800,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.9,
+        "company":"apple"
+
+    },
+    {
+        "name":"Apple iPhone 13 (128GB) - Starlight",
+        "price":52090,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.9,
+        "company":"apple"
+
+    },
+    {
+        "name":"Samsung Galaxy F54 5G (Stardust Silver, 256 GB) (8 GB RAM)",
+        "price":24000,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/81cjnxL6jbL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"samsung"
+    },
+    {
+        "name":"Samsung Galaxy S21 FE 5G (2023) (8GB 256GB Navy) with Snapdragon 888",
+        "price":32750,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/71M1w3w753L._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"samsung"
+    },
+    {
+        "name":"Samsung Galaxy S22 5G (Green, 8GB, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "price":39900,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/71qZERyxy6L._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"samsung"
+    }
+    ,{
+        
+        "name":"SAMSUNG Galaxy S23 FE 5G (Graphite 128 GB Storage) (8 GB RAM)",
+        "price":36979,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/61-E0V81kBL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"samsung"
+
+    },
+    {
+        "name":"Redmi Note 13 Pro (Arctic White, 8GB RAM, 128GB Storage) ",
+        "price":23999,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/71XQD0wtMPL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"mi"
+
+    },
+    {
+        "name":"Redmi Note 13 Pro+ (Fusion Purple, 8GB RAM, 256GB Storage) ",
+        "price":29999,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/819sWoSDFRL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"mi"
+
+    },
+    {
+        "name":"Redmi 12 5G Pastel Blue 8GB RAM 256GB ROM4 ",
+        "price":14499,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/71UIZHHo5hL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"mi"
+
+    },
+    {
+        "name":"Redmi 12 (Jade Black,6GB RAM, 128GB Storage) ",
+        "price":9999,
+        "featured":true,
+        "imageUrl":"https://m.media-amazon.com/images/I/71qa4eh0NjL._AC_UY327_FMwebp_QL65_.jpg",
+        "rating":4.8,
+        "company":"mi"
+
+    }
+    
+]
